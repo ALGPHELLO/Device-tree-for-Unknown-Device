@@ -51,4 +51,4 @@ Front Camera | 5 MP, f/2.4
  * Camera HDR
 
 ### Thanks to:
- * Daniel_hk
+ * Daniel_hk# Device-tree-for-Unknown-Device
